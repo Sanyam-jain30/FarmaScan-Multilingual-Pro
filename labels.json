@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Mosaic Virus",
+      "effected": true,
+      "solution": "There is no cure for viral infections, but preventive measures include using virus-free seeds, controlling insect vectors, and practicing good crop hygiene.",
+      "symptom": "Mottled or mosaic-like patterns on leaves, stunted growth."
+    },
+    {
+      "name": "Hoppers and Bugs (Pest Injury)",
+      "effected": true,
+      "solution": "Use insecticides and adopt integrated pest management strategies. Beneficial insects like ladybugs can be introduced to control pest populations.",
+      "symptom": "Holes in leaves, wilting, general plant decline."
+    },
+    {
+      "name": "Pest Injury",
+      "effected": true,
+      "solution": "Varied depending on the specific pest. Insecticides, traps, and cultural practices like crop rotation can be effective.",
+      "symptom": "Depends on the pest but may include chewed leaves, distorted growth."
+    },
+    {
+      "name": "Tikka Leaf Spot",
+      "effected": true,
+      "solution": "Fungicides, crop rotation, and removing infected plant material can help control the disease.",
+      "symptom": "Small, dark spots on leaves, which may enlarge and develop a concentric ring pattern."
+    },
+    {
+      "name": "Phytoplasma (Bacteria)",
+      "effected": true,
+      "solution": "There is no direct cure for phytoplasma infections. Prevention includes using disease-free planting material and controlling insect vectors.",
+      "symptom": "Yellowing, stunted growth, and various deformities in leaves."
+    },
+    {
+      "name": "Rust Disease",
+      "effected": true,
+      "solution": "Fungicides, genetic resistance, and proper plant spacing to improve air circulation can help manage rust diseases.",
+      "symptom": "Rust-colored pustules on leaves, often leading to leaf yellowing and premature leaf drop."
+    }
+]  
